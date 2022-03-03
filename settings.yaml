@@ -1,0 +1,6 @@
+log_level: info
+log_caller_enable: false
+es_user: elastic
+es_pass: abc1234
+elastic_hosts:
+  - https://localhost:9200
